@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+groq
+streamlit
+pandas 
+numpy
+gradio
+googlesearch-python
+yfinance
+plotly
